@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "yodaplazV2.aternos.me:47251",
+    "port": 47251,
     "version": "",
     "try-creative": false
   },
